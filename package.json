@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "express-notetaker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "express": "^4.16.4"
   }
 }
