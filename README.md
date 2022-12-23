@@ -5,7 +5,7 @@
 This page has been created as a tool for taking and recalling notes, as well as presenting the ability to delete the created notes as well.  
 
 ## Technologies Used
-This app uses are Express
+This app uses Express, node, mysql.
 
 ## User Story
 
